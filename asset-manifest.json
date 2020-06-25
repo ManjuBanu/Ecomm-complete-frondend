@@ -1,24 +1,36 @@
 {
   "files": {
     "main.css": "/Ecomm-complete-frondend/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Ecomm-complete-frondend/static/js/main.7fc76477.chunk.js",
-    "main.js.map": "/Ecomm-complete-frondend/static/js/main.7fc76477.chunk.js.map",
-    "runtime-main.js": "/Ecomm-complete-frondend/static/js/runtime-main.9d96dfbc.js",
-    "runtime-main.js.map": "/Ecomm-complete-frondend/static/js/runtime-main.9d96dfbc.js.map",
-    "static/js/2.08f75dcf.chunk.js": "/Ecomm-complete-frondend/static/js/2.08f75dcf.chunk.js",
-    "static/js/2.08f75dcf.chunk.js.map": "/Ecomm-complete-frondend/static/js/2.08f75dcf.chunk.js.map",
+    "main.js": "/Ecomm-complete-frondend/static/js/main.4cf5d8c7.chunk.js",
+    "main.js.map": "/Ecomm-complete-frondend/static/js/main.4cf5d8c7.chunk.js.map",
+    "runtime-main.js": "/Ecomm-complete-frondend/static/js/runtime-main.0db51455.js",
+    "runtime-main.js.map": "/Ecomm-complete-frondend/static/js/runtime-main.0db51455.js.map",
+    "static/js/2.c4c2f5db.chunk.js": "/Ecomm-complete-frondend/static/js/2.c4c2f5db.chunk.js",
+    "static/js/2.c4c2f5db.chunk.js.map": "/Ecomm-complete-frondend/static/js/2.c4c2f5db.chunk.js.map",
+    "static/js/3.32de5875.chunk.js": "/Ecomm-complete-frondend/static/js/3.32de5875.chunk.js",
+    "static/js/3.32de5875.chunk.js.map": "/Ecomm-complete-frondend/static/js/3.32de5875.chunk.js.map",
+    "static/js/4.194feec6.chunk.js": "/Ecomm-complete-frondend/static/js/4.194feec6.chunk.js",
+    "static/js/4.194feec6.chunk.js.map": "/Ecomm-complete-frondend/static/js/4.194feec6.chunk.js.map",
+    "static/js/5.0f399e21.chunk.js": "/Ecomm-complete-frondend/static/js/5.0f399e21.chunk.js",
+    "static/js/5.0f399e21.chunk.js.map": "/Ecomm-complete-frondend/static/js/5.0f399e21.chunk.js.map",
+    "static/js/6.db62c739.chunk.js": "/Ecomm-complete-frondend/static/js/6.db62c739.chunk.js",
+    "static/js/6.db62c739.chunk.js.map": "/Ecomm-complete-frondend/static/js/6.db62c739.chunk.js.map",
+    "static/js/7.7218e19c.chunk.js": "/Ecomm-complete-frondend/static/js/7.7218e19c.chunk.js",
+    "static/js/7.7218e19c.chunk.js.map": "/Ecomm-complete-frondend/static/js/7.7218e19c.chunk.js.map",
+    "static/js/8.e44ed0af.chunk.js": "/Ecomm-complete-frondend/static/js/8.e44ed0af.chunk.js",
+    "static/js/8.e44ed0af.chunk.js.map": "/Ecomm-complete-frondend/static/js/8.e44ed0af.chunk.js.map",
     "index.html": "/Ecomm-complete-frondend/index.html",
-    "precache-manifest.451029adf3bf478d50aa213ab731858a.js": "/Ecomm-complete-frondend/precache-manifest.451029adf3bf478d50aa213ab731858a.js",
+    "precache-manifest.297eeedeb65d0b937c84d5befa25d907.js": "/Ecomm-complete-frondend/precache-manifest.297eeedeb65d0b937c84d5befa25d907.js",
     "service-worker.js": "/Ecomm-complete-frondend/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Ecomm-complete-frondend/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.08f75dcf.chunk.js.LICENSE.txt": "/Ecomm-complete-frondend/static/js/2.08f75dcf.chunk.js.LICENSE.txt",
+    "static/js/2.c4c2f5db.chunk.js.LICENSE.txt": "/Ecomm-complete-frondend/static/js/2.c4c2f5db.chunk.js.LICENSE.txt",
     "static/media/crown.ed28accb.svg": "/Ecomm-complete-frondend/static/media/crown.ed28accb.svg",
     "static/media/shopping-bag.30f07071.svg": "/Ecomm-complete-frondend/static/media/shopping-bag.30f07071.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d96dfbc.js",
-    "static/js/2.08f75dcf.chunk.js",
+    "static/js/runtime-main.0db51455.js",
+    "static/js/2.c4c2f5db.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.7fc76477.chunk.js"
+    "static/js/main.4cf5d8c7.chunk.js"
   ]
 }

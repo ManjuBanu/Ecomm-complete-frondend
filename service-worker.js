@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Ecomm-complete-frondend/precache-manifest.451029adf3bf478d50aa213ab731858a.js"
+  "/Ecomm-complete-frondend/precache-manifest.297eeedeb65d0b937c84d5befa25d907.js"
 );
 
 self.addEventListener('message', (event) => {
